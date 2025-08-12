@@ -1,0 +1,192 @@
+species_planted	growth_form	n
+Achyrocline_saturejoides	subshrub	5
+Aldama_bracteata	subshrub	5
+Alibertia_edulis	shrub-tree	5
+Amburana_cearensis	tree	6
+Anacardium_humile	tree	5
+Anadenanthera_colubrina	shrub-tree	5
+Andropogon_bicornis	herb	6
+Annona_crassiflora	tree	6
+Aristida_riparia	herb	5
+Aspidosperma_macrocarpon	tree	6
+Aspidosperma_tomentosum	tree	5
+Astronium_fraxinifolium	tree	6
+Axonopus_aureus	herb	6
+Bowdichia_virgilioides	shrub-tree	6
+Byrsonima_crassifolia	shrub-tree	5
+Copaifera_langsdorffii	tree	7
+Cordia_alliodora	shrub-tree	5
+Cybistax_antisyphilitica	shrub-tree	5
+Dalbergia_miscolobium	tree	5
+Didymopanax_macrocarpus	shrub-tree	5
+Diectomis_fastigiata	herb	5
+Dimorphandra_mollis	tree	7
+Dipteryx_alata	tree	8
+Echinolaena_inflexa	herb	5
+Emmotum_nitens	tree	5
+Enterolobium_contortisiliquum	tree	5
+Enterolobium_gummiferum	tree	5
+Eremanthus_glomerulatus	tree	5
+Eriotheca_pubescens	tree	6
+Eugenia_dysenterica	shrub-tree	6
+Guazuma_ulmifolia	tree	5
+Hancornia_speciosa	shrub-tree	5
+Handroanthus_ochraceus	tree	5
+Hymenaea_stigonocarpa	tree	6
+Jacaranda_brasiliana	tree	5
+Lepidaploa_aurea	herb	5
+Loudetiopsis_chrysothrix	herb	7
+Machaerium_opacum	tree	6
+Magonia_pubescens	tree	6
+Mimosa_claussenii	shrub	5
+Myracrodruon_urundeuva	tree	5
+Plathymenia_reticulata	tree	6
+Pleroma_candolleanum	shrub	5
+Schinopsis_brasiliensis	tree	5
+Schizachyrium_sanguineum	herb	5
+Senegalia_polyphylla	shrub-tree	5
+Senna_alata	shrub-tree	5
+Solanum_lycocarpum	shrub	5
+Stryphnodendron_adstringens	shrub-tree	6
+Stylosanthes_capitata	herb-subshrub	5
+Stylosanthes_macrocephala	herb-subshrub	6
+Tabebuia_aurea	tree	6
+Tachigali_vulgaris	tree	8
+Terminalia_argentea	shrub-tree	6
+Terminalia_corrugata	tree	5
+Terminalia_fagifolia	shrub-tree	5
+Trachypogon_spicatus	herb	6
+Vatairea_macrocarpa	tree	6
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
