@@ -41,7 +41,7 @@ id	year	country	biome	species_planted	familly	native_exotic	growth_form	life_cyc
 53	2020	Kenya	grassland	Enteropogon_macrostachyus	Poaceae	native	herb	perennial	na
 53	2020	Kenya	grassland	Eragrostis_superba	Poaceae	native	herb	perennial	na
 53	2020	Kenya	grassland	Sehima_nervosa	Poaceae	native	herb	perennial	na
-54	2021	Brazil	savanna	Andropogon_bicornis	Poaceae	native	herb	perennial	na
+54	2021	Brazil	savanna	Anatherum_bicorne	Poaceae	native	herb	perennial	na
 54	2021	Brazil	savanna	Andropogon_sp.	Poaceae	na	herb	annual-perennial	na
 54	2021	Brazil	savanna	Aristida_aff._riparia	Poaceae	native	herb	perennial	na
 54	2021	Brazil	savanna	Aristida_riparia	Poaceae	native	herb	perennial	na
@@ -121,8 +121,8 @@ id	year	country	biome	species_planted	familly	native_exotic	growth_form	life_cyc
 65	2015	USA	shrubland	Chamaecrista_fasciculata	Fabaceae	native	herb	annual	na
 69	2018	Brazil	grassland	Smilax_fluminensis	Smilacaceae	native	climber	na	na
 69	2018	Brazil	grassland	Acisanthera_alsinefolia	Melastomataceae	native	herb	na	na
-69	2018	Brazil	grassland	Andropogon_bicornis	Poaceae	native	herb	perennial	na
-69	2018	Brazil	grassland	Andropogon_leucostachyus	Poaceae	native	herb	perennial	EN
+69	2018	Brazil	grassland	Anatherum_bicorne	Poaceae	native	herb	perennial	na
+69	2018	Brazil	grassland	Anatherum_leucostachyum	Poaceae	native	herb	perennial	EN
 69	2018	Brazil	grassland	Andropogon_virgatus	Poaceae	native	herb	perennial	na
 69	2018	Brazil	grassland	Andropogon_virgatus	Poaceae	native	herb	perennial	na
 69	2018	Brazil	grassland	Aristida_jubata	Poaceae	native	herb	perennial	na
@@ -209,7 +209,7 @@ id	year	country	biome	species_planted	familly	native_exotic	growth_form	life_cyc
 76	2021	Brazil	grassland	Centrosema_coriaceum	Fabaceae	native	subshrub	perennial	na
 76	2021	Brazil	grassland	Diplusodon_microphyllus	Lythraceae	native	subshrub-shrub	perennial	na
 76	2021	Brazil	grassland	Eremanthus_erythropappus	Asteraceae	native	tree	perennial	LC
-79	2022	Brazil	savanna	Andropogon_bicornis	Poaceae	native	herb	perennial	na
+79	2022	Brazil	savanna	Anatherum_bicorne	Poaceae	native	herb	perennial	na
 79	2022	Brazil	savanna	Andropogon_sp.	Poaceae	na	herb	annual-perennial	na
 79	2022	Brazil	savanna	Aristida_aff._riparia	Poaceae	native	herb	perennial	na
 79	2022	Brazil	savanna	Aristida_riparia	Poaceae	native	herb	perennial	na
@@ -350,8 +350,8 @@ id	year	country	biome	species_planted	familly	native_exotic	growth_form	life_cyc
 47b	2019	Australia	savanna	Eucalyptus_punctata	Myrtaceae	native	tree	perennial	LC
 47b	2019	Australia	savanna	Eucalyptus_shirleyi	Myrtaceae	native	tree	perennial	LC
 47b	2019	Australia	savanna	Eucalyptus_tereticornis	Myrtaceae	native	tree	perennial	LC
-48a	2019	Brazil	savanna	Andropogon_bicornis	Poaceae	native	herb	perennial	na
-48a	2019	Brazil	savanna	Andropogon_leucostachyus	Poaceae	native	herb	perennial	EN
+48a	2019	Brazil	savanna	Anatherum_bicorne	Poaceae	native	herb	perennial	na
+48a	2019	Brazil	savanna	Anatherum_leucostachyum	Poaceae	native	herb	perennial	EN
 48a	2019	Brazil	savanna	Aristida_cf._recurvata	Poaceae	native	herb	perennial	na
 48a	2019	Brazil	savanna	Aristida_gibbosa	Poaceae	native	herb	perennial	na
 48a	2019	Brazil	savanna	Aristida_riparia	Poaceae	native	herb	perennial	na
@@ -417,8 +417,8 @@ id	year	country	biome	species_planted	familly	native_exotic	growth_form	life_cyc
 48a	2019	Brazil	savanna	Terminalia_corrugata	Combretaceae	native	tree	perennial	na
 48a	2019	Brazil	savanna	Vatairea_macrocarpa	Fabaceae	native	tree	perennial	LC
 48a	2019	Brazil	savanna	Zanthoxylum_rhoifolium	Rutaceae	native	tree	perennial	LC
-48b	2019	Brazil	savanna	Andropogon_bicornis	Poaceae	native	herb	perennial	na
-48b	2019	Brazil	savanna	Andropogon_leucostachyus	Poaceae	native	herb	perennial	EN
+48b	2019	Brazil	savanna	Anatherum_bicorne	Poaceae	native	herb	perennial	na
+48b	2019	Brazil	savanna	Anatherum_leucostachyum	Poaceae	native	herb	perennial	EN
 48b	2019	Brazil	savanna	Aristida_cf._recurvata	Poaceae	native	herb	perennial	na
 48b	2019	Brazil	savanna	Aristida_gibbosa	Poaceae	native	herb	perennial	na
 48b	2019	Brazil	savanna	Aristida_riparia	Poaceae	native	herb	perennial	na
@@ -484,8 +484,8 @@ id	year	country	biome	species_planted	familly	native_exotic	growth_form	life_cyc
 48b	2019	Brazil	savanna	Terminalia_corrugata	Combretaceae	native	tree	perennial	na
 48b	2019	Brazil	savanna	Vatairea_macrocarpa	Fabaceae	native	tree	perennial	LC
 48b	2019	Brazil	savanna	Zanthoxylum_rhoifolium	Rutaceae	native	tree	perennial	LC
-48c	2019	Brazil	savanna	Andropogon_bicornis	Poaceae	native	herb	perennial	na
-48c	2019	Brazil	savanna	Andropogon_leucostachyus	Poaceae	native	herb	perennial	EN
+48c	2019	Brazil	savanna	Anatherum_bicorne	Poaceae	native	herb	perennial	na
+48c	2019	Brazil	savanna	Anatherum_leucostachyum	Poaceae	native	herb	perennial	EN
 48c	2019	Brazil	savanna	Aristida_cf._recurvata	Poaceae	native	herb	perennial	na
 48c	2019	Brazil	savanna	Aristida_gibbosa	Poaceae	native	herb	perennial	na
 48c	2019	Brazil	savanna	Aristida_riparia	Poaceae	native	herb	perennial	na
