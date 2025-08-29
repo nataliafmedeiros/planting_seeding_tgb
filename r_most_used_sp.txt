@@ -5,7 +5,7 @@ Alibertia_edulis	shrub-tree	5
 Amburana_cearensis	tree	6
 Anacardium_humile	tree	5
 Anadenanthera_colubrina	shrub-tree	5
-Andropogon_bicornis	herb	6
+Anatherum_bicorne	herb	6
 Annona_crassiflora	tree	6
 Aristida_riparia	herb	5
 Aspidosperma_macrocarpon	tree	6
@@ -190,3 +190,4 @@ Vatairea_macrocarpa	tree	6
 		
 		
 		
+
